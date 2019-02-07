@@ -1,8 +1,10 @@
 h1 {
-  color: green;
+  color: whitesmoke;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
 }
 
 body {
   text-align: center;
   margin: auto;
+  background-color: darkslategrey;
 }
